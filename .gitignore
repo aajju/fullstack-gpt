@@ -1,2 +1,7 @@
 env/
 .env
+env/
+.env
+files/
+.cache/
+.streamlit/
